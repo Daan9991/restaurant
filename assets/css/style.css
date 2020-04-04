@@ -1,0 +1,80 @@
+.bg-index {
+  background-color: rgba(255, 255, 255, 0.5);
+  background: url('https://coster52.nl/img/slider/7.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.bg-2{
+  background-color: #F4F4F4;
+}
+.container-max{
+  height: 100% !important;
+  width: 100%;
+}
+.navbar{
+  -webkit-box-shadow: 0 8px 6px -6px white;
+   -moz-box-shadow: 0 8px 6px -6px white;
+        box-shadow: 0 8px 6px -6px white;
+}
+a{
+  color: white;
+}
+.row{
+  width: 100%;
+  margin: 0px 0px;
+}
+.logo{
+  width: 90px;
+  height: 40px;
+}
+.navbar .navbar-collapse.show .navbar-nav .nav-item{
+  padding: 0px 0px;
+}
+.bg-primary{
+  background-color: #054e35 !important;
+}
+.btn-primary{
+  background-color: #054e35 !important;
+  border-color: white;
+}
+.h1-title{
+  color: white;
+  font-size: 3rem;
+}
+hr{
+  border-color: #054e35;
+  border-width: 3px;
+  max-width: 100px;
+}
+/* .buffer{
+  height: 2rem;
+} */
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+.btn-xl{
+  padding: 1rem 2rem;
+}
+.center{
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+strong{
+  font-weight: bold;
+}
+
+footer{
+  background-color: #054e35;
+  color: white;
+}
+.footer-copyright{
+  background-color: #033826;
+}
+.visible{
+  background-color: rgba(0,0,0,0.4);
+  /* border: 4px solid #054e35; */
+}
