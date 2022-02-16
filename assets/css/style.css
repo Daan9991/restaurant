@@ -1,6 +1,6 @@
 .bg-index {
   background-color: rgba(255, 255, 255, 0.5);
-  background: url('...') no-repeat center center; /*Afbeelding komt nog */
+  background: url("../img/7.jpg") no-repeat center center; /*Afbeelding komt nog */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -60,8 +60,18 @@ hr{
   padding: 1rem 2rem;
 }
 .center{
-  margin-top: 200px;
-  margin-bottom: 200px;
+  margin-top: 250px;
+  margin-bottom: 250px;
+}
+
+.center h2{
+  margin-top: -200px;
+  text-align: center;
+}
+
+.center-2{
+  margin-bottom: 100px;
+  text-align: center;
 }
 strong{
   font-weight: bold;
